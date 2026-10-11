@@ -41,7 +41,6 @@ A brief demonstration of the interactive filters and view switching within the d
 ## 📁 Repository Structure
 - `Book1.twbx`: The packaged Tableau workbook containing the dataset and interactive views.
 - `visuals/`: Directory containing high-resolution dashboard screenshots (`Sales_Dashboard.png`, `Customer_Dashboard.png`) and the video walkthrough.
-- `dashboard_links.txt`: Direct links to individual sheets and views.
 
 ---
 *Created by [Nidhi Singhal](https://github.com/Nidhi-Singhal-0808)*
