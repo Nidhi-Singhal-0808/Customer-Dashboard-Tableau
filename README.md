@@ -23,10 +23,10 @@ This repository showcases an interactive, two-part Tableau dashboard designed to
 ## 📸 Dashboard Previews
 
 ### Sales Dashboard View
-![Sales Dashboard](Sales_Dashboard.png)
+![Sales Dashboard](visuals/Sales_Dashboard.png)
 
 ### Customer Dashboard View
-![Customer Dashboard](Customer_Dashboard.png)
+![Customer Dashboard](visuals/Customer_Dashboard.png)
 
 ## 🛠️ Tools & Technologies Used
 - **Data Visualization:** Tableau
