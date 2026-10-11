@@ -43,4 +43,15 @@ A brief demonstration of the interactive filters and view switching within the d
 - `visuals/`: Directory containing high-resolution dashboard screenshots (`Sales_Dashboard.png`, `Customer_Dashboard.png`) and the video walkthrough.
 
 ---
-*Created by [Nidhi Singhal](https://github.com/Nidhi-Singhal-0808)*
+## 👩‍💻 About Me
+
+Hi, I'm **Nidhi Singhal**! 👋
+
+I am currently in my 3rd year of a B.Tech program and an aspiring **Business / Data Analyst**. I am passionate about transforming raw data into actionable insights and solving real-world problems through data-driven decision-making. 
+
+My technical journey involves exploring SQL, designing data architecture, and building efficient workflows. I am always eager to learn new technologies, tackle complex analytical challenges, and collaborate on exciting tech projects. 
+
+📫 **Let's Connect:**
+- **LinkedIn:** [www.linkedin.com/in/nidhi-singhal-cse]
+- **GitHub:** [@Nidhi-Singhal-0808](https://github.com/Nidhi-Singhal-0808)
+- **Email:** [singhalnidhi0808@gmail.com]
