@@ -20,13 +20,18 @@ This repository showcases an interactive, two-part Tableau dashboard designed to
 * **Order Distribution:** Mapped Customer Distribution by Number of Orders to understand purchasing frequency and loyalty.
 * **Top Performers:** Generated a dynamic "Top 10 Customers by Profit" matrix detailing last order dates, total sales, and total profit per customer.
 
+## 🎥 Dashboard Walkthrough
+A brief demonstration of the interactive filters and view switching within the dashboard.
+
+<video src="VISUALS/Dashboard_video.mp4" width="100%" controls></video>
+
 ## 📸 Dashboard Previews
 
 ### Sales Dashboard View
-![Sales Dashboard](visual/Sales_Dashboard.png)
+![Sales Dashboard](VISUALS/Sales_Dashboard.png)
 
 ### Customer Dashboard View
-![Customer Dashboard](visual/Customer_Dashboard.png)
+![Customer Dashboard](VISUALS/Customer_Dashboard.png)
 
 ## 🛠️ Tools & Technologies Used
 - **Data Visualization:** Tableau
